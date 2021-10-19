@@ -1,0 +1,18 @@
+[submodule "old-node/database-upload-challenge"]
+	path = old-node/database-upload-challenge
+	url = git@github.com:carlosberti/database-upload-challenge.git
+[submodule "old-node/fundamentos-node"]
+	path = old-node/fundamentos-node
+	url = git@github.com:carlosberti/fundamentos-node.git
+[submodule "old-node/desafio-conceito-node"]
+	path = old-node/desafio-conceito-node
+	url = git@github.com:carlosberti/desafio-conceito-node.git
+[submodule "old-node/goBarberBackEnd"]
+	path = old-node/goBarberBackEnd
+	url = git@github.com:carlosberti/goBarberBackEnd.git
+[submodule "old-node/backend-omniStack7"]
+	path = old-node/backend-omniStack7
+	url = git@github.com:carlosberti/backend-omniStack7.git
+[submodule "old-node/clean-architecture"]
+	path = old-node/clean-architecture
+	url = git@github.com:carlosberti/clean-architecture.git
